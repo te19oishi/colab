@@ -1,0 +1,1 @@
+googlecolabでpythonを利用する。
